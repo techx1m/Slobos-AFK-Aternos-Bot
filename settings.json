@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ImBotIgnoreMe00",
     "password": "",
     "type": "offline"
   },
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "TechGamer1m is the Owner of This Server!",
         "Subscribe to Techx Gaming 1m!",
-        "I like to play Minecraft!"
+        "Join our Discord Server https://discord.gg/6VQSTFH56 "
       ]
     },
     "chat-log": true,
